@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Edge.js.Binaries</id>
+    <version>8.2.1</version>
+    <description>This package provides all native binaries and internal scripts needed to run Edge.js. This package copies the 'edge' folder to the build directory and creates a link in the project root to make debugging possible.</description>
+    <authors>Bruno Zell</authors>
+    <projectUrl>https://github.com/TheInsaneBro/Edge.js.Binaries</projectUrl>
+    <licenseUrl>https://github.com/TheInsaneBro/Edge.js.Binaries/blob/master/LICENSE</licenseUrl>
+    <tags>node.js nodejs node js .net edge edgejs edge.js v8 clr coreclr mono interop javascript bin binaries scripts</tags>
+    <releaseNotes>Support for Edge.js 8.2.1</releaseNotes>
+  </metadata>
+</package>
